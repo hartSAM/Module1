@@ -184,6 +184,7 @@ input {
   .service__serve {
     padding-top: 90px;
     height: 210px;
+    width: 200px;
   }
   .advantages__img_first {
     background-size: contain;
@@ -196,9 +197,6 @@ input {
   }
   .offer h1 {
     width: 600px;
-  }
-  .service__serve {
-    width: 200px;
   }
   .advantages__img_first {
     display: none;
